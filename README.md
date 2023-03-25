@@ -2,7 +2,7 @@
 A powerful tool that can be used on android and IOS devices (Mobile) to keylog, ping, scan files, check network activity, and various other exploits/spyware. 
 
 
-### Stages
+#### Stages
 
 ## Stage one. <-- Current Stage
 Build Starting UI
@@ -22,7 +22,7 @@ Establish a Connection with device
 - [ ] prevent itself from being deleted.
 - [ ] code clean up
 
-## Stage Two
+## Stage Three
 Emplment the first Spyware tool. 
 - [ ] Create basic keylogger which sends information back to desktop app
 - [ ] display the entered keys in a fashionable sense. 
