@@ -1,3 +1,4 @@
+<img width="221" alt="B747B170-126C-4F4A-B826-058BCEBD3637-removebg-preview" src="https://user-images.githubusercontent.com/120230397/227724018-9b1fcdbf-2eb3-4677-a9a0-6325e89e0449.png">
 # Argonify
 Argonify Security Solutions™, 2023
 
