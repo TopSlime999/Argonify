@@ -8,7 +8,7 @@ A powerful pen-testing and exploit tool that can be used on Android and iOS devi
 
 ## Stage one. <-- Current Stage
 Build Starting UI
-- [ ] Make and feature a basic Argonify logo
+- [X] Make and feature a basic Argonify logo
 - [ ] Show currently connected devices - (Part of Stage 2)
 - [ ] Clean UI (Get some friends to rate it for me)
 - [ ] Clean up code
@@ -18,7 +18,7 @@ Build Starting UI
 Establish a Connection with device
 - [ ] Get application to run on mobile device. 
 - [ ] Connect to server on laptop, and show that connection in the desktop App
-- [ ] Display device connection, gather ip, and other device info
+- [X] Display device connection, gather ip, and other device info
 - [ ] Keep connection when offline, or reconnect attempts. 
 - [ ] Create a backup of itself, or attempt restore if deleted. 
 - [ ] Prevent itself from being deleted.
@@ -27,7 +27,7 @@ Establish a Connection with device
 ## Stage Three
 Emplment the first Spyware tool. 
 - [ ] Create basic keylogger which sends information back to desktop app
-- [ ] display the entered keys in a fashionable sense. 
+- [X] display the entered keys in a fashionable sense. 
 - [ ]  ADD MORE STAGES LATER - first get here :-) .
 
 Estimated Project Time: Several months. 
