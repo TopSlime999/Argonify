@@ -1,7 +1,7 @@
 # Argonify
 Argonify Security Solutions™, 2023
 
-A powerful tool that can be used on android and iOS devices (mobile) to keylog, ping, scan files, check network activity, and commit various other exploits. Could also serve as spyware. 
+A powerful pen-testing and exploit tool that can be used on Android and iOS devices (mobile) to keylog, ping, scan files, check network activity, and commit various other exploits. Could also serve as spyware. 
 
 
 #### Stages
