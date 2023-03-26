@@ -6,7 +6,7 @@ A powerful tool for both pen-testers and hackers that can be used on Android and
 
 #### Stages of Development
 
-## Stage 1 <-- Current Stage
+## Stage One <-- Current Stage
 Develop Scripts
 - [X] Make and feature a basic Argonify logo.
 - [ ] Show currently connected devices (also a part of Stage 2).
@@ -26,7 +26,7 @@ Establish a Connection with the Device
 - [ ] Code clean up.
 
 ## Stage Three
-Emplment the first Spyware tool. 
+Implement the first Spyware tool. 
 - [ ] Create basic keylogger which sends information back to the main desktop app.
 - [X] Display the entered keys in a fashionable sense. 
 - [ ] ADD MORE STAGES LATER - first get here :-) .
