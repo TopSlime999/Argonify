@@ -26,7 +26,7 @@ Establish a Connection with the Device
 - [ ] Code clean up.
 
 ## Stage Three
-Implement the first Spyware tool. 
+Implement the spyware tool. 
 - [ ] Create basic keylogger which sends information back to the main desktop app.
 - [X] Display the entered keys in a fashionable sense. 
 - [ ] ADD MORE STAGES LATER - first get here :-) .
